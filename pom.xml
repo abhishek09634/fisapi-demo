@@ -39,11 +39,11 @@
 	</distributionManagement>
 -->
 <distributionManagement>
-<snapshotRepository>
-<id>snapshots</id>
-<name>vlmaz2021tn252-snapshots</name>
-<url>http://10.7.143.73:8081/artifactory/fis-demo
-</snapshotRepository>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <name>vlmaz2021tn252-snapshots</name>
+    <url>http://10.7.143.73:8081/artifactory/fis-demo/</url>
+  </snapshotRepository>
 </distributionManagement>
 
 	<scm>
